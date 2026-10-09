@@ -1,0 +1,140 @@
+[
+  {
+    "id": "demo_carrier_reliability.md_chunk_0_5a9b40",
+    "source": "demo_carrier_reliability.md",
+    "chunk_index": 0,
+    "text": "DEMO DATA \u2014 NOT LIVE INFORMATION\n\n# Carrier Reliability\n\n## Overview\nCarrier reliability refers to a transport provider's ability to deliver cargo on time and in good condition as per the agreed schedule. It is a critical metric for maintaining tight supply chain schedules."
+  },
+  {
+    "id": "demo_carrier_reliability.md_chunk_1_2f3d8b",
+    "source": "demo_carrier_reliability.md",
+    "chunk_index": 1,
+    "text": "It is a critical metric for maintaining tight supply chain schedules. ## Factors Affecting Carrier Reliability Score\n- **Schedule Integrity**: How often a carrier departs and arrives within the promised window. Low scores indicate a high frequency of delays.\n- **Capacity Management**: Carriers that frequently overbook and \"roll\" cargo (leave it for a later sailing/flight) will have lower reliability scores.\n- **Equipment Maintenance**: Breakdowns of trucks, ships, or aircraft directly impact reliability.\n- **Financial Stability**: Carriers facing financial difficulties may cut corners on maintenance or face service suspensions, lowering their reliability."
+  },
+  {
+    "id": "demo_carrier_reliability.md_chunk_2_165154",
+    "source": "demo_carrier_reliability.md",
+    "chunk_index": 2,
+    "text": "## Strategic Implications\nWhen utilizing a carrier with a low reliability score (e.g., < 0.80), shippers should build additional buffer time into their lead time estimates. For highly time-sensitive goods or high-value product categories, it is often worth paying a premium for a carrier with a proven high reliability score to avoid downstream manufacturing or retail stockouts."
+  },
+  {
+    "id": "demo_geopolitical_risks.md_chunk_0_33e5f0",
+    "source": "demo_geopolitical_risks.md",
+    "chunk_index": 0,
+    "text": "DEMO DATA \u2014 NOT LIVE INFORMATION\n\n# Geopolitical Shipping Risks\n\n## Overview\nGeopolitical instability introduces significant unpredictability into supply chains. Changes in government policies, international conflicts, and trade disputes can suddenly alter the viability of established shipping routes."
+  },
+  {
+    "id": "demo_geopolitical_risks.md_chunk_1_25e451",
+    "source": "demo_geopolitical_risks.md",
+    "chunk_index": 1,
+    "text": "Changes in government policies, international conflicts, and trade disputes can suddenly alter the viability of established shipping routes. ## Types of Geopolitical Risks\n- **Trade Sanctions and Tariffs**: Sudden imposition of tariffs can change the cost structure of shipping certain product categories, making previous sourcing strategies unprofitable.\n- **Regional Conflicts**: Active conflicts can make airspace and maritime zones unsafe."
+  },
+  {
+    "id": "demo_geopolitical_risks.md_chunk_2_c9455a",
+    "source": "demo_geopolitical_risks.md",
+    "chunk_index": 2,
+    "text": "For example, maritime vessels may need to bypass high-risk straits or canals, opting for longer, safer routes (e.g., routing around the Cape of Good Hope instead of the Suez Canal).\n- **Piracy**: Specific maritime zones have elevated risks of piracy, requiring vessels to travel with escorts or at higher speeds, which increases fuel consumption and costs.\n- **Border Closures**: Political tensions can lead to sudden closure of land borders, severely impacting cross-border road and rail freight."
+  },
+  {
+    "id": "demo_geopolitical_risks.md_chunk_3_8ece7c",
+    "source": "demo_geopolitical_risks.md",
+    "chunk_index": 3,
+    "text": "## Impacts on Logistics\nA high geopolitical risk score often correlates with increased insurance premiums and fuel price index spikes. It necessitates agile supply chains that can quickly pivot to alternative suppliers or transport modes. Cargo inspections also tend to increase in frequency and duration in regions with elevated geopolitical tensions."
+  },
+  {
+    "id": "demo_port_congestion.md_chunk_0_4171b6",
+    "source": "demo_port_congestion.md",
+    "chunk_index": 0,
+    "text": "DEMO DATA \u2014 NOT LIVE INFORMATION\n\n# Port Congestion\n\n## Overview\nPort congestion occurs when a port or terminal receives more vessels or cargo than it can process efficiently. This bottleneck is a major contributor to increased lead times and reduced carrier reliability."
+  },
+  {
+    "id": "demo_port_congestion.md_chunk_1_226013",
+    "source": "demo_port_congestion.md",
+    "chunk_index": 1,
+    "text": "This bottleneck is a major contributor to increased lead times and reduced carrier reliability."
+  },
+  {
+    "id": "demo_port_congestion.md_chunk_2_a8a06d",
+    "source": "demo_port_congestion.md",
+    "chunk_index": 2,
+    "text": "## Causes of Port Congestion\n- **Labor Shortages and Strikes**: When port workers strike or when there is a lack of available labor (such as truck drivers or crane operators), cargo movement slows down significantly.\n- **Equipment Shortages**: A lack of available chassis or empty containers can prevent cargo from leaving the port, creating a backlog.\n- **Vessel Bunching**: When ships arrive off-schedule (often due to weather delays earlier in their voyage), multiple vessels may arrive simultaneously, overwhelming port capacity.\n- **Customs Delays**: Complex or changing customs regulations can slow down the clearance process, keeping goods at the port longer than expected."
+  },
+  {
+    "id": "demo_port_congestion.md_chunk_3_707360",
+    "source": "demo_port_congestion.md",
+    "chunk_index": 3,
+    "text": "## Ripple Effects\nCongestion at an origin port delays the departure of goods. Congestion at a destination port forces vessels to anchor offshore for days or weeks waiting for a berth. This not only delays the current shipment but also ties up vessel capacity, causing subsequent sailings to be canceled (blank sailings), which disrupts the entire global shipping schedule."
+  },
+  {
+    "id": "demo_rerouting_strategies.md_chunk_0_ebd5d0",
+    "source": "demo_rerouting_strategies.md",
+    "chunk_index": 0,
+    "text": "DEMO DATA \u2014 NOT LIVE INFORMATION\n\n# Rerouting Strategies\n\n## Overview\nWhen disruptions occur, rerouting shipments is the primary tactical response to minimize delays. Effective rerouting requires real-time visibility and flexible logistics contracts."
+  },
+  {
+    "id": "demo_rerouting_strategies.md_chunk_1_91e3d4",
+    "source": "demo_rerouting_strategies.md",
+    "chunk_index": 1,
+    "text": "Effective rerouting requires real-time visibility and flexible logistics contracts. ## Common Rerouting Methods\n- **Mode Shifting**: Converting a shipment from sea freight to air freight to make up for lost time, though this significantly increases costs."
+  },
+  {
+    "id": "demo_rerouting_strategies.md_chunk_2_efe706",
+    "source": "demo_rerouting_strategies.md",
+    "chunk_index": 2,
+    "text": "Conversely, shifting from truck to rail might be used if road conditions are compromised by weather.\n- **Alternative Ports**: If a destination port is heavily congested, cargo can be discharged at an alternative nearby port and transported to the final destination via truck or rail.\n- **Transshipment Adjustments**: Changing the transshipment hub mid-voyage if the original hub experiences a sudden disruption (e.g., labor strike)."
+  },
+  {
+    "id": "demo_rerouting_strategies.md_chunk_3_c45e58",
+    "source": "demo_rerouting_strategies.md",
+    "chunk_index": 3,
+    "text": "## Decision Factors\nDeciding whether to reroute involves analyzing the trade-off between the additional transport cost, distance added, and the cost of the delay. The product category plays a major role; perishable goods or high-tech components might justify expensive air freight rerouting, while bulk commodities like coal or grain usually wait out the disruption due to their low value-to-weight ratio. High fuel price indices also make long-distance rerouting less attractive."
+  },
+  {
+    "id": "demo_supply_chain_resilience.md_chunk_0_45ead1",
+    "source": "demo_supply_chain_resilience.md",
+    "chunk_index": 0,
+    "text": "DEMO DATA \u2014 NOT LIVE INFORMATION\n\n# Supply Chain Resilience and Contingency Planning\n\n## Overview\nSupply chain resilience is the capability of a logistics network to anticipate, prepare for, respond to, and recover from disruptions. Contingency planning is the structural preparation that enables resilience."
+  },
+  {
+    "id": "demo_supply_chain_resilience.md_chunk_1_bbb860",
+    "source": "demo_supply_chain_resilience.md",
+    "chunk_index": 1,
+    "text": "Contingency planning is the structural preparation that enables resilience. ## Key Resilience Strategies\n- **Diversification of Suppliers and Routes**: Relying on a single origin port or a single carrier increases vulnerability."
+  },
+  {
+    "id": "demo_supply_chain_resilience.md_chunk_2_6502ba",
+    "source": "demo_supply_chain_resilience.md",
+    "chunk_index": 2,
+    "text": "Resilient networks use multiple ports and multimodal transport strategies.\n- **Inventory Buffering**: Maintaining strategic stockpiles of critical components to absorb shocks in lead times.\n- **Nearshoring and Onshoring**: Reducing distance (km) between production and final market limits exposure to international geopolitical and maritime weather risks.\n- **Visibility and Predictive Analytics**: Using data (such as ML-driven risk scores) to identify potential disruptions before they occur, allowing for proactive mitigation rather than reactive scrambling."
+  },
+  {
+    "id": "demo_supply_chain_resilience.md_chunk_3_56364c",
+    "source": "demo_supply_chain_resilience.md",
+    "chunk_index": 3,
+    "text": "## Developing a Contingency Plan\nA robust contingency plan identifies trigger events (e.g., weather condition crossing a severity threshold, carrier reliability dropping below a baseline, geopolitical risk score entering a critical zone) and prescribes pre-approved actions. This reduces decision-making time during a crisis, ensuring that alternative transport modes or rerouting strategies can be executed immediately."
+  },
+  {
+    "id": "demo_weather_risks.md_chunk_0_92a384",
+    "source": "demo_weather_risks.md",
+    "chunk_index": 0,
+    "text": "DEMO DATA \u2014 NOT LIVE INFORMATION\n\n# Weather-Related Logistics Risks\n\n## Overview\nSevere weather conditions are a primary driver of supply chain disruptions. These natural events can cause immediate halts to transportation networks, damage goods, and lead to cascading delays across global logistics operations."
+  },
+  {
+    "id": "demo_weather_risks.md_chunk_1_7b57bf",
+    "source": "demo_weather_risks.md",
+    "chunk_index": 1,
+    "text": "## Common Weather Risks\n- **Hurricanes and Typhoons**: These severe storms can force maritime vessels to alter courses, causing delays of several days to weeks."
+  },
+  {
+    "id": "demo_weather_risks.md_chunk_2_4cdeb1",
+    "source": "demo_weather_risks.md",
+    "chunk_index": 2,
+    "text": "Ports in the affected areas often suspend operations, leading to vessel backlogs.\n- **Heavy Snow and Ice**: Winter storms impact road freight significantly, reducing truck speeds, causing road closures, and increasing accident rates.\n- **Flooding**: Can wash out rail lines and roads, rendering traditional inland transport routes impassable.\n- **Severe Storms and Wind**: Can ground air freight operations and cause port cranes to halt for safety reasons."
+  },
+  {
+    "id": "demo_weather_risks.md_chunk_3_52841f",
+    "source": "demo_weather_risks.md",
+    "chunk_index": 3,
+    "text": "## Mitigation and Impact\nWhen severe weather is forecasted, proactive rerouting is essential. However, last-minute weather changes often result in capacity constraints as multiple shippers attempt to secure alternative transport modes simultaneously. Understanding historical weather patterns for specific routes helps in planning buffer times (lead times) for critical shipments."
+  }
+]
