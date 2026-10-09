@@ -9,6 +9,8 @@ def health_check():
     try:
         if not inst.is_loaded: inst.load()
         loaded = True
-    except:
+    except Exception as e:
+        from backend.utils.logger import get_logger
+        get_logger(__name__).exception("Model loading failed")
         loaded = False
     return success_response({'status': 'healthy', 'model_loaded': loaded, 'preprocessor_loaded': loaded})
