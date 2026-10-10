@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { request } from '../../services/api';
 import { Bot, FileText, ChevronDown, ChevronUp, AlertCircle, Info } from 'lucide-react';
 
 export default function RagInsightsPanel({ inputData, prediction }) {
@@ -36,15 +37,12 @@ export default function RagInsightsPanel({ inputData, prediction }) {
           question: dynamicQuestion.slice(0, 500)
         };
 
-        const res = await fetch('/api/rag/explain', {
+        const json = await request('/api/rag/explain', {
           method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify(payload)
-        });
+            body: JSON.stringify(payload),
+          });
 
-        const json = await res.json();
-        
-        if (!res.ok || !json.success) {
+        if (!json.success) {
           throw new Error(json.error?.message || 'Failed to fetch RAG insights');
         }
 
